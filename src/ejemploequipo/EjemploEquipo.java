@@ -18,7 +18,6 @@ public class EjemploEquipo {
         // TODO code application logic here
         // Este es un ejemplo de control de versiones y
         // trabajo en equipo
-        // Este es el primer cambio
     }
     
 }
