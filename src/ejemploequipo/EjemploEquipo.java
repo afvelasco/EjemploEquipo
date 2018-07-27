@@ -19,7 +19,8 @@ public class EjemploEquipo {
         // Este es un ejemplo de control de versiones y
         // trabajo en equipo
         // Este es el primer cambio
-        // Este trabajo lo vouy a compafrtir
+        // Este trabajo lo voy a compartir
+        // Esta es otra linea
     }
     
 }
